@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    background: rgb(187, 169, 169);
+    font-family: 'Indie Flower', cursive;
+}
+h2 {
+    font-size: 2rem;
+    color: salmon;
+}
+.db h1{
+    padding: 3rem;
+    font-size: 4rem;
+    color: rgb(233, 235, 236);
+    text-align: center;
+}
+p{
+    font-family: righteous;
+    padding: 4rem;
+    background: cornflowerblue;
+    margin: 2rem;
+}
+.dragon img{
+    width: 100%;
+}
